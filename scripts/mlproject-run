@@ -1,2 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+def try_me() :
+    print("tell me what the fuck")
+    result=input()
+    if result == what the fuck:
+        print("tkt frero")
+    else:
+        print("tell me what the fuck")
+       
+    
+if __name__ == "__main__":
+	try_me()
